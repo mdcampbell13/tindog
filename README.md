@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog site.
+
+Project from Udemy Bootstrap course.
